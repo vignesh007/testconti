@@ -24,6 +24,7 @@
 
 
 #include <PacketSerial.h>
+#inlcude <serialIP.h>
 
 
 // The PacketSerial object.
